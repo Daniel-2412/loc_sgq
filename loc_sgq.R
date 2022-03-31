@@ -3,7 +3,7 @@
 # File:     Fundamentos da Linguagem R
 # Project:  League Online Courses
 # Purpose:
-Date:       now()
+# Date:       now()
 
 
 # INSTALL AND LOAD PACKAGES ###################################################
@@ -31,7 +31,9 @@ library (usethis)
 
 # Criar o CAMINHO ABSOLUTO
 
-create_project("C:/home/loc_sgq")
+# create_project("C:/home/loc_sgq")
+
+create_project("C:/daniel/loq_nsp")
 
 # Saidas no Console-------------------------------------------------------------
     #√ Creating 'C:/home/loc_sgq/'
@@ -46,8 +48,8 @@ create_project("C:/home/loc_sgq")
 # Configurar o R para o Git e O GitHub #########################################
 
 use_git_config(
-    user.name = "ansesi",
-        user.email = "tao281168@gmail.com"
+    user.name = "daniel-2412",
+        user.email = "machadodca@hotmail.com"
 )
 
 # Ao rodar estes comandos, o R ja casdastra o Git. Isto só se faz uma única vez por máquina.
