@@ -1,5 +1,5 @@
 # Title:    visualização de Dados
-# Author:   Antonio Sergio da Silva
+# Author:   Daniel Cristiano Aparecido Machado
 # File:     Fundamentos da Linguagem R
 # Project:  League Online Courses SGQ
 # Purpose:

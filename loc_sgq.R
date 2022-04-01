@@ -1,5 +1,5 @@
 # Title:    Configuração do Git e do GitHub
-# Author:   Antonio Sergio da Silva
+# Author:   Daniel Cristiano Aparecido Machado
 # File:     Fundamentos da Linguagem R
 # Project:  League Online Courses
 # Purpose:
